@@ -9,6 +9,6 @@ public class Student {
         System.out.println("nihao!!!");
         System.out.println("hahahah");
         System.out.println("sdfsd");
-
+        System.out.println("哈哈哈哈");
     }
 }
